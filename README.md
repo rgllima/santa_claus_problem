@@ -1,10 +1,12 @@
 ## Problema 11 - Des. Software Concorrente.
 ### Santa Claus Problem
 
-```txt
+```text
 Rafael Lima - 399609
-Josué Nicholson - 
+Josué Nicholson - 399715
 ```
+O problema do Papai Noel. Desenvolva um algoritmo para simular o seguinte sistema: Papai Noel dorme no Pólo Norte até ser acordado por todas as nove renas ou por um grupo de três entre dez elfos. Ele então realiza uma de duas ações indivisíveis: se acordado pelo grupo de renas, o Papai Noel os atrela a um trenó, entrega os brinquedos e, finalmente, desamarra a rena que sai de férias. Se acordado por um grupo de elfos, o Papai Noel os mostra em seu escritório, consulta-os sobre P&D de brinquedos e, finalmente, mostra-os para que possam voltar a trabalhar na construção de brinquedos. Um grupo de renas em espera deve ser servido pelo Papai Noel antes de um grupo de elfos em espera. Uma vez que o tempo do Papai Noel é extremamente valioso, organizar as renas ou elfos em um grupo não deve ser feito pelo Papai Noel.
+
 
 ### Códigos em Java
 
